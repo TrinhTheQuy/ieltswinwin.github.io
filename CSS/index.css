@@ -1,0 +1,37 @@
+
+.hinh1{
+    
+    width: 100px;
+    height: auto;
+
+}
+.footer{
+    width: 100%;
+    height: 25%;
+   
+}
+.footer>p {
+    display: inline-block;
+    padding-right: 50px ;
+    font-size: larger;
+
+    
+}
+h3{
+    text-align: center;
+    
+}
+.center{
+    border-left:3px solid greenyellow ;
+}
+
+table{
+    text-align: center;
+    font-size: larger;
+    
+}
+h2{
+    color: green;
+}
+    
+
