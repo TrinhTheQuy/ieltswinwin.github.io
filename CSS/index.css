@@ -5,18 +5,7 @@
     height: auto;
 
 }
-.footer{
-    width: 100%;
-    height: 25%;
-   
-}
-.footer>p {
-    display: inline-block;
-    padding-right: 50px ;
-    font-size: larger;
 
-    
-}
 h3{
     text-align: center;
     
@@ -33,5 +22,9 @@ table{
 h2{
     color: green;
 }
-    
+
+.container1>p{
+    display: inline-block;
+    margin-left: 200px;
+}
 
